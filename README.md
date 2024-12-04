@@ -1,1 +1,1 @@
-# Edge-pp06
+Python is a comprehensive language
